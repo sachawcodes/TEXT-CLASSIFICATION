@@ -24,4 +24,4 @@ from tensorflow.keras import layers
 
 #-----_-EVALUATE-THE-MODEL-------#
 
-# Test it with `raw_test_ds`, which yields raw strings (END-TO-END MODEL)
+#Test it with `raw_test_ds`, which yields raw strings (END-TO-END MODEL)
